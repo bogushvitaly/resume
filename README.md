@@ -1,1 +1,1 @@
-[Resume](http://bogushvitaly.github.io/resume/)
+[Link](http://bogushvitaly.github.io/resume/)
